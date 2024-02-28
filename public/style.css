@@ -1,0 +1,52 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+.navbar-brand{
+    color: maroon;
+}
+.navbar{
+    width: 100%;
+    border-bottom: 0.5px solid rgb(58, 56, 56);
+}
+h1{
+    color: maroon;
+}
+.post{
+    background-color:rgb(231, 226, 226);
+}
+.user{
+    font-style: italic;
+}
+.card{
+    margin: 20px;
+}
+.body{
+    display: inline-block;
+    justify-content: center;
+}
+.btn-outline-danger{
+    margin-top: 15px;
+}
+.btn-success{
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.submit{
+    color: white;
+    background-color: rgb(2, 161, 2);
+    border: none;
+    width: 220px;
+    height: 30px;
+    border-radius: 3px;
+}
+.show{
+    padding: 20px;
+    border-radius: 1%;
+}
+.edit{
+    border: 1px solid black;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding: 20px;
+}
